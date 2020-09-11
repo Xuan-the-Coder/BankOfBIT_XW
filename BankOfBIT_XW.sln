@@ -1,21 +1,22 @@
 ﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankOfBIT_XW", "BankOfBIT_XW\BankOfBIT_XW.csproj", "{9B3F780C-7805-469D-B0A5-81E85C473CD3}"
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "OnlineBanking", "..\..\..\..\Documents\Visual Studio 2010\WebSites\OnlineBanking\", "{D6272BF4-84B4-4D4A-B7A5-997C1D106B3D}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "OnlineBanking", "..\..\..\..\programming assignment\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\OnlineBanking\", "{D6272BF4-84B4-4D4A-B7A5-997C1D106B3D}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		ProjectReferences = "{9B3F780C-7805-469D-B0A5-81E85C473CD3}|BankOfBIT_XW.dll;{1DFB919A-6DD3-4F37-A1C4-5DA42400C74D}|Utility.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/OnlineBanking"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Documents\Visual Studio 2010\WebSites\OnlineBanking\"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\programming assignment\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\OnlineBanking\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\OnlineBanking\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/OnlineBanking"
-		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Documents\Visual Studio 2010\WebSites\OnlineBanking\"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\programming assignment\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\OnlineBanking\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\OnlineBanking\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
@@ -30,19 +31,19 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "OnlineBanking", "..\..\..\.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{1DFB919A-6DD3-4F37-A1C4-5DA42400C74D}"
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "BankService", "..\..\..\..\Documents\Visual Studio 2010\WebSites\BankService\", "{C3B0E0A2-FB34-4F3B-B917-7E0C089AC177}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "BankService", "..\..\..\..\programming assignment\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\BankService\", "{C3B0E0A2-FB34-4F3B-B917-7E0C089AC177}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		ProjectReferences = "{9B3F780C-7805-469D-B0A5-81E85C473CD3}|BankOfBIT_XW.dll;{1DFB919A-6DD3-4F37-A1C4-5DA42400C74D}|Utility.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/BankService"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Documents\Visual Studio 2010\WebSites\BankService\"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\programming assignment\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\BankService\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\BankService\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/BankService"
-		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Documents\Visual Studio 2010\WebSites\BankService\"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\programming assignment\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\BankService\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\BankService\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
@@ -57,7 +58,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsBankingApplication",
 		{C3B0E0A2-FB34-4F3B-B917-7E0C089AC177} = {C3B0E0A2-FB34-4F3B-B917-7E0C089AC177}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaskedLabel", "..\..\..\..\Downloads\Assignment 3 Files\Assignment 3 Files\MaskedLabel\MaskedLabel.csproj", "{049F1B57-22DE-42E2-A648-B64B82BF6DF5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaskedLabel", "..\..\..\..\programming assignment\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\MaskedLabel\MaskedLabel.csproj", "{049F1B57-22DE-42E2-A648-B64B82BF6DF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
