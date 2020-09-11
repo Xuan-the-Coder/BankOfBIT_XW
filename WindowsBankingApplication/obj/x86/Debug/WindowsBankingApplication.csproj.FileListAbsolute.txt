@@ -1,0 +1,129 @@
+C:\Users\Administrator\Desktop\Programming III\Assignments\Assignment 3 Files\WindowsBanking\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.frmBatch.resources
+C:\Users\Administrator\Desktop\Programming III\Assignments\Assignment 3 Files\WindowsBanking\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.frmClients.resources
+C:\Users\Administrator\Desktop\Programming III\Assignments\Assignment 3 Files\WindowsBanking\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.frmHistory.resources
+C:\Users\Administrator\Desktop\Programming III\Assignments\Assignment 3 Files\WindowsBanking\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.frmMDI.resources
+C:\Users\Administrator\Desktop\Programming III\Assignments\Assignment 3 Files\WindowsBanking\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.frmTransaction.resources
+C:\Users\Administrator\Desktop\Programming III\Assignments\Assignment 3 Files\WindowsBanking\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Programming III\Assignments\Assignment 3 Files\WindowsBanking\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Programming III\Assignments\Assignment 3 Files\WindowsBanking\WindowsBankingApplication\bin\Debug\WindowsBankingApplication.exe
+C:\Users\Administrator\Desktop\Programming III\Assignments\Assignment 3 Files\WindowsBanking\WindowsBankingApplication\bin\Debug\WindowsBankingApplication.pdb
+C:\Users\Administrator\Desktop\Programming III\Assignments\Assignment 3 Files\WindowsBanking\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.exe
+C:\Users\Administrator\Desktop\Programming III\Assignments\Assignment 3 Files\WindowsBanking\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.pdb
+C:\Users\Administrator\Desktop\Programming III\Assignments\Assignment 3 Files\WindowsBanking\WindowsBankingApplication\bin\Debug\WindowsBankingApplication.exe.config
+C:\Users\Administrator\Desktop\Programming III\Assignments\Assignment 3 Files\WindowsBanking\WindowsBankingApplication\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\Programming III\Assignments\Assignment 3 Files\WindowsBanking\WindowsBankingApplication\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\Programming III\Assignments\Assignment 3 Files\WindowsBanking\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\WindowsBankingApplication.exe.config
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\WindowsBankingApplication.exe
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\WindowsBankingApplication.pdb
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\BankOfBIT_XW.dll
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\Utility.dll
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Web.Http.dll
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\WebGrease.dll
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\EWSoftware.MaskedLabelControl.xml
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\BankOfBIT_XW.pdb
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\Utility.pdb
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Web.Http.xml
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.frmBatch.resources
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.frmClients.resources
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.frmHistory.resources
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.frmMDI.resources
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.frmTransaction.resources
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.exe
+C:\Users\Administrator\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.pdb
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\WindowsBankingApplication.exe.config
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\WindowsBankingApplication.exe
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\WindowsBankingApplication.pdb
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\BankOfBIT_XW.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\Utility.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Web.Optimization.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Web.Mvc.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Web.Http.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Net.Http.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\WebMatrix.WebData.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\WebGrease.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Web.Razor.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Web.WebPages.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\WebMatrix.Data.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Web.Helpers.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\EWSoftware.MaskedLabelControl.xml
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\BankOfBIT_XW.pdb
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\BankOfBIT_XW.dll.config
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\Utility.pdb
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Web.Mvc.xml
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Web.Http.xml
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Net.Http.xml
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\WebMatrix.WebData.xml
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Web.Razor.xml
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Web.WebPages.xml
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\WebMatrix.Data.xml
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Web.Helpers.xml
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.csprojAssemblyReference.cache
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.frmBatch.resources
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.frmClients.resources
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.frmHistory.resources
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.frmMDI.resources
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.frmTransaction.resources
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.Properties.Resources.resources
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.csproj.GenerateResource.cache
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.csproj.CoreCompileInputs.cache
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.csproj.CopyComplete
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.exe
+C:\Users\Xuan\Desktop\BankOfBIT_XW (2)\BankOfBIT_XW\BankOfBIT_XW\WindowsBankingApplication\obj\x86\Debug\WindowsBankingApplication.pdb

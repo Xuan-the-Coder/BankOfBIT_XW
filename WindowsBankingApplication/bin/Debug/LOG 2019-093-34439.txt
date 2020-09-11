@@ -1,0 +1,67 @@
+----------ERROR----------
+File : 2019-093-34439.xml
+Institution: <institution>34439</institution>
+Account Number:<account_no>11111</account_no>
+Transaction Type:<type>2</type>
+Notes:<notes>***ERROR***missing child node</notes>
+Nodes:4
+Transaction validation error
+-------------------------
+----------ERROR----------
+File : 2019-093-34439.xml
+Institution: <institution>34439</institution>
+Account Number:<account_no>11111</account_no>
+Transaction Type:<type>withdrawal</type>
+Amount:<amount>0</amount>
+Notes:<notes>***ERROR***non-numeric trans type</notes>
+Nodes:5
+type validation error
+-------------------------
+----------ERROR----------
+File : 2019-093-34439.xml
+Institution: <institution>34439</institution>
+Account Number:<account_no>11111</account_no>
+Transaction Type:<type>2</type>
+Amount:<amount>zero</amount>
+Notes:<notes>***ERROR***bad amt</notes>
+Nodes:5
+amount validation error
+-------------------------
+----------ERROR----------
+File : 2019-093-34439.xml
+Institution: <institution>34439</institution>
+Account Number:<account_no>11111</account_no>
+Transaction Type:<type>2</type>
+Amount:<amount>ten</amount>
+Notes:<notes>***ERROR***non-numeric withdrawal amount</notes>
+Nodes:5
+amount validation error
+-------------------------
+----------ERROR----------
+File : 2019-093-34439.xml
+Institution: <institution>34439</institution>
+Account Number:<account_no>11111</account_no>
+Transaction Type:<type>9</type>
+Amount:<amount>90</amount>
+Notes:<notes>***ERROR***wrong tx type</notes>
+Nodes:5
+type value validation error
+-------------------------
+----------ERROR----------
+File : 2019-093-34439.xml
+Institution: <institution>34439</institution>
+Account Number:<account_no>1111</account_no>
+Transaction Type:<type>2</type>
+Amount:<amount>10</amount>
+Notes:<notes>***ERROR***bad account number</notes>
+Nodes:5
+account number validation error
+-------------------------
+Transaction Completed Successfully: Withdrawal $100.00 from account 11111
+Transaction Completed Successfully: Withdrawal $100.00 from account 11111
+Transaction Completed Successfully: Withdrawal $100.00 from account 11111
+Transaction Completed Successfully: Withdrawal $100.00 from account 11111
+Transaction Completed Successfully: Withdrawal $100.00 from account 11111
+Transaction Completed Successfully: Withdrawal $100.00 from account 11111
+Transaction Completed Successfully: Withdrawal $100.00 from account 11111
+

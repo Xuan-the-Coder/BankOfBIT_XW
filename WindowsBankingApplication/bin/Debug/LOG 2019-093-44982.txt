@@ -1,0 +1,12 @@
+----------ERROR----------
+File : 2019-093-44982.xml
+Institution: <institution>44982</institution>
+Account Number:<account_no>11111</account_no>
+Transaction Type:<type>9</type>
+Amount:<amount>90</amount>
+Notes:<notes>***ERROR BAD TX TYPE***</notes>
+Nodes:5
+type value validation error
+-------------------------
+Transaction Completed Successfully: Withdrawal $90.00 from account 11111
+
